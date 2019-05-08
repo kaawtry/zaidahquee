@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaeseighi.ubcenvision.com/sitemap.xml
